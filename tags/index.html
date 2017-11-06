@@ -1,10 +1,10 @@
 
-  <!DOCTYPE HTML>
+ <!DOCTYPE HTML>
 <html lang="English">
 <head>
   <meta charset="UTF-8">
   
-    <title>Archives: 2017/11 | Road Wide&#39;s Blog</title>
+    <title>tags | Road Wide&#39;s Blog</title>
     <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
     
     <meta name="author" content="roadwide">
@@ -13,13 +13,14 @@
     
     <meta name="description" content="Road Wide&apos;s Blog">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Road Wide&#39;s Blog">
-<meta property="og:url" content="https://roadwide.github.io/archives/2017/11/index.html">
+<meta property="og:title" content="tags">
+<meta property="og:url" content="https://roadwide.github.io/tags/index.html">
 <meta property="og:site_name" content="Road Wide&#39;s Blog">
 <meta property="og:description" content="Road Wide&apos;s Blog">
 <meta property="og:locale" content="English">
+<meta property="og:updated_time" content="2017-11-06T12:18:23.870Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Road Wide&#39;s Blog">
+<meta name="twitter:title" content="tags">
 <meta name="twitter:description" content="Road Wide&apos;s Blog">
 
     
@@ -74,35 +75,21 @@
 </div>
       </header>
       <div id="container">
-        
-
+          
 <div class="archive-title" >
-  <h2 class="archive-icon">2017/11</h2>
-  
-  <div class="archiveslist archive-float clearfix">
-   <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/11/">Nov 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/12/">Dec 2015</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/11/">Nov 2015</a><span class="archive-list-count">1</span></li></ul>
- </div>
-  
+<h2 class="tag-icon">Tags</h2>
+
+<a data-src="/tags/emotions/" href="#emotions" title="emotions">emotions<sup>2</sup></a>
+
+<a data-src="/tags/things/" href="#things" title="things">things<sup>1</sup></a>
+
 </div>
-<div id="main" class="archive-part clearfix">
-  <div id="archive-page">
-
-  <section class="post" itemscope itemprop="blogPost">
-  
-    <a href="/2017/11/07/Do-you-love-me/" title="Do you love me?" itemprop="url">
-  
-
-    <time datetime="2017-11-06T20:09:09.000Z" itemprop="datePublished">2017-11-07</time>
-
-
-    <h1 itemprop="name">Do you love me?</h1>
-
-  </a>
-</section>
-
-
-  </div>
+<div id="main" class="archive-part">
+<div class="all-list-box"></div>
 </div>
+
+
+
 
       </div>
       <footer><div id="footer" >
@@ -199,6 +186,24 @@ $(document).ready(function(){
 
 
 
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var list    = $('.archive-title a'),
+      box     = $('.all-list-box'),
+      first   = $('.archive-title a:first-of-type');
+      box.load(first.attr('data-src').toString()+' #archive-page');
+      first.addClass('current');
+  list.each(function(){
+    $(this).click(function(){
+      var listSrc=$(this).attr('data-src').toString()+' #archive-page';
+      box.load(listSrc);
+      list.removeClass('current');
+      $(this).addClass('current');
+     });  
+    });
+  }); 
+</script>
 
 
 <link rel="stylesheet" href="/fancybox/jquery.fancybox.css" media="screen" type="text/css">
