@@ -47,7 +47,7 @@
 				<h1 class="site-name"><a href="/" title="Road Wide&#39;s Blog">Road Wide&#39;s Blog</a></h1>
 				<h2 class="blog-motto">Do what I want to do,Be what I want to be.</h2>
 			</div>
-			<div class="navbar"><a class="navbutton navmobile" href="#" title="Menu">
+			<div class="navbar"><a class="navbutton navmobile" href="#" title="菜单">
 			</a></div>
 			<nav class="animated">
 				<ul>
@@ -63,7 +63,7 @@
  					
 					<form class="search" action="//google.com/search" method="get" accept-charset="utf-8">
 						<label>Search</label>
-						<input type="search" id="search" name="q" autocomplete="off" maxlength="20" placeholder="Search" />
+						<input type="search" id="search" name="q" autocomplete="off" maxlength="20" placeholder="搜索" />
 						<input type="hidden" name="q" value="site:roadwide.github.io">
 					</form>
 					
@@ -75,7 +75,7 @@
       <div id="container">
           
 <div class="archive-title" >
-<h2 class="tag-icon">Tags</h2>
+<h2 class="tag-icon">标签</h2>
 
 <a data-src="/tags/emotions/" href="#emotions" title="emotions">emotions<sup>4</sup></a>
 
@@ -181,6 +181,26 @@ $(document).ready(function(){
 
 
 
+<script type="text/javascript">
+
+var disqus_shortname = 'road-wides-blog';
+
+(function(){
+  var dsq = document.createElement('script');
+  dsq.type = 'text/javascript';
+  dsq.async = true;
+  dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+}());
+(function(){
+  var dsq = document.createElement('script');
+  dsq.type = 'text/javascript';
+  dsq.async = true;
+  dsq.src = '//' + disqus_shortname + '.disqus.com/count.js';
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+}());
+</script>
+
 
 
 
@@ -240,7 +260,7 @@ $(document).ready(function(){
 <!-- Totop Begin -->
 
 	<div id="totop">
-	<a title="Back to Top"><img src="/img/scrollup.png"/></a>
+	<a title="返回顶部"><img src="/img/scrollup.png"/></a>
 	</div>
 	<script src="/js/totop.js"></script>
 
