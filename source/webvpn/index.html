@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+<p>https://webvpn.dlut.edu.cn/https/77726476706e69737468656265737421fdf64d892025695e79468aa395/webvpn/index.html</p>
+<a href="https://baidu.com">baidu</a>
+
+
+
+
+
+<form>
+  <label>URL:</label><br>
+  <input type="text" id="url">
+  <input type="button" value="获取链接" id="btn"/>
+  
+</form>
+<a id="ak" href="">链接地址</a>
+
+<script>
+  //案例:点击按钮修改a标签的地址和热点文字
+ 
+  document.getElementById("btn").onclick = function () {
+  
+     var url = document.getElementById("url").value;
+
+    //根据id获取超链接,设置href属性
+    var aObj = document.getElementById("ak");
+    aObj.href = url;
+  };
+ 
+</script>
+
+</body>
+</html>
