@@ -13,6 +13,14 @@ git commit -m "backup"
 git push
 ```
 
+# 注意
+
+安装git、nodejs以及hexo后还需要安装git部署程序
+
+```bash
+npm install hexo-deployer-git --save
+```
+
 # 文件说明
 
 - _config.yml：站点的配置文件，需要备份；
