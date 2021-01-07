@@ -15,11 +15,13 @@ git push
 
 # 注意
 
-安装git、nodejs以及hexo后还需要安装git部署程序
+1、安装git、nodejs以及hexo后还需要安装git部署程序
 
 ```bash
 npm install hexo-deployer-git --save
 ```
+
+2、需要删除themes\jacman文件夹下的.git才能将主题备份（显示隐藏文件）
 
 # 文件说明
 
