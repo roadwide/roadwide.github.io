@@ -23,6 +23,8 @@ npm install hexo-deployer-git --save
 
 2、需要删除themes\jacman文件夹下的.git才能将主题备份（显示隐藏文件）
 
+解决办法：删除之前代码残留的.git ，转换文件夹位置     push 操作删除 远程分支残留空文件夹。再重新提交一遍
+
 # 文件说明
 
 - _config.yml：站点的配置文件，需要备份；
