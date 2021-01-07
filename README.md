@@ -25,6 +25,8 @@ npm install hexo-deployer-git --save
 
 解决办法：删除之前代码残留的.git ，转换文件夹位置     push 操作删除 远程分支残留空文件夹。再重新提交一遍
 
+3、hexo init后会默认生成一篇hello world的文章，需要手动删除
+
 # 文件说明
 
 - _config.yml：站点的配置文件，需要备份；
