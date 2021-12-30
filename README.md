@@ -40,3 +40,12 @@ npm install hexo-deployer-git --save
 - public：是 hexo g 生成的静态网页，不需要备份；
 - .deploy_git：同上，hexo g 也会生成，不需要备份；
 - db.json：文件，不需要备份。
+
+# 恢复环境
+```bash
+git clone -b source git@github.com:roadwide/roadwide.github.io.git
+在文件夹内依次执行
+npm install hexo-cli -g
+npm install
+npm install hexo-deployer-git
+```
