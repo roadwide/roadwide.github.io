@@ -4,7 +4,15 @@
 git clone -b source git@github.com:roadwide/roadwide.github.io.git
 ```
 
-复制并替换6个文件（夹）到上一步克隆的文件夹内
+如果是已经存在本地的不是新的clone，记得先git pull  
+
+复制并替换6个文件（夹）到上一步克隆的文件夹内  
+
+```bash
+cp -r _config.yml themes source scaffolds package.json ../roadwide.github.io/
+```
+
+然后提交  
 
 ```bash
 cd roadwide.github.io
