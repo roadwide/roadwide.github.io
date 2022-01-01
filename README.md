@@ -13,6 +13,21 @@ git commit -m "backup"
 git push
 ```
 
+# 恢复环境
+
+依次执行
+```bash
+hexo init blog
+cd blog
+npm install
+npm install hexo-deployer-git --save
+rm -rf _config.yml themes source scaffolds package.json
+cd ..
+git clone -b source git@github.com:roadwide/roadwide.github.io.git
+cd roadwide.github.io
+cp -r _config.yml themes source scaffolds package.json ../blog/
+```
+
 # 注意
 
 1、安装git、nodejs以及hexo后还需要安装git部署程序
@@ -34,18 +49,9 @@ npm install hexo-deployer-git --save
 - source：博客文章的 .md 文件，需要备份；
 - scaffolds：文章的模板，需要备份；
 - package.json：安装包的名称，需要备份；
-- .gitignore：限定在 push 时哪些文件可以忽略，需要备份；
+- .gitignore：限定在 push 时哪些文件可以忽略，需要备份；（没有改动可以不备份）
 - .git：主题和站点都有，标志这是一个 git 项目，不需要备份；
 - node_modules：是安装包的目录，在执行 npm install 的时候会重新生成，不需要备份；
 - public：是 hexo g 生成的静态网页，不需要备份；
 - .deploy_git：同上，hexo g 也会生成，不需要备份；
 - db.json：文件，不需要备份。
-
-# 恢复环境
-```bash
-git clone -b source git@github.com:roadwide/roadwide.github.io.git
-在文件夹内依次执行
-npm install hexo-cli -g
-npm install
-npm install hexo-deployer-git
-```
