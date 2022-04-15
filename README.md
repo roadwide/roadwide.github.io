@@ -15,7 +15,7 @@ cp -r _config.yml themes source scaffolds package.json ../roadwide.github.io/
 然后提交  
 
 ```bash
-cd roadwide.github.io
+cd ../roadwide.github.io
 git add .
 git commit -m "backup"
 git push
