@@ -3,7 +3,7 @@ title: The Summer
 date: 2018-08-23 13:27:47
 tags: things
 ---
-![2018 Ching Ming Festival in Dalian zoo](https://wx2.sinaimg.cn/mw690/b2698767ly1fujkwq4kj6j211y0lcq6q.jpg "me")
+![2018 Ching Ming Festival in Dalian zoo](https://cdn.jsdelivr.net/gh/roadwide/roadwide.github.io@master/img/The-Summer/b2698767ly1fujkwq4kj6j211y0lcq6q.jpg "me")
 
 Only a month's summer vacation.Maybe it is substantial or hollow.If not @臭咸鱼 post a Qzone,I will not write this posts.I always have three minutes hot.And I'm too lazy.Usually I want to write but don't take actions.
 

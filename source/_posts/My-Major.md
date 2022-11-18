@@ -28,7 +28,7 @@ tags: things
 
 今天上课发现机房外面竟然还贴着一个关于生物信息学的宣传页。
 
-![计算机与生物信息学](https://wx2.sinaimg.cn/large/b2698767ly1g50la2jk74j20u0140hdx.jpg)
+![计算机与生物信息学](https://cdn.jsdelivr.net/gh/roadwide/roadwide.github.io@master/img/My-Major/b2698767ly1g50la2jk74j20u0140hdx.jpg)
 
 ## 培养方案
 
@@ -45,7 +45,7 @@ tags: things
 
 当然，还有与之配套的实验就不一一列举了。下学期的课表是这样的。
 
-![下学期课表](https://wx3.sinaimg.cn/large/b2698767ly1g50lnp7mgtj20w60mxwgk.jpg)
+![下学期课表](https://cdn.jsdelivr.net/gh/roadwide/roadwide.github.io@master/img/My-Major/b2698767ly1g50lnp7mgtj20w60mxwgk.jpg)
 
 确实学的挺杂的，毕竟是个交叉学科。这种交叉学科搞好了能推动各个学科的发展，推动整个社会进步；搞不好就是每个学科都不精，最后什么都干不了。
 
@@ -63,7 +63,7 @@ tags: things
 
 我们接触的许多游戏、影视等应该经常见到同一种功能的机械实现方法和生物实现方法。有点不知道怎么表达自己的想法。举几个可能不是很恰当的例子。美剧神盾特工局中我记得有一集是雷神喜欢的那个女的被带到阿斯加德治疗，神界对她的治疗就可以看作生物的，而那个女的问那些治疗她的人核磁共振的什么方法就是机械的；奇异博士中古一法师治疗人所用的可以看作是生物的，博士刚去时和古一法师讨论的脊柱修复再生什么的就是机械的；魔兽争霸中的人族和不死族（或者暗夜精灵），有些建筑，人物等其实是效果一样的，但实现方法就不一样，一方面是人类建筑、武器是造出来的，而其他种族则是孵化出来的，机械的和生物的实现同一种功能。更不贴切的比喻，物理伤害和法术伤害；鸟儿自身能感知磁场，人类造出仪器感知磁场，同一种功能，不同的实现，这个例子应该算是比较合理吧。同样的还有很多动物感知器官与人不同的地方，而人类通过制造仪器实现的例子。用眼睛看东西和用摄影机拍摄也算一个例子；还有现在所用的计算机和生物计算机的设想；再比如电影阿凡达中，阿凡达人用自己的辫子和神树连在一起实现某种通信，而人类则通过手机、网络等联系；
 
-![阿凡达的神树](https://wx1.sinaimg.cn/large/b2698767ly1g50n8ntmbgj20hs097dgc.jpg)
+![阿凡达的神树](https://cdn.jsdelivr.net/gh/roadwide/roadwide.github.io@master/img/My-Major/b2698767ly1g50n8ntmbgj20hs097dgc.jpg)
 
 我不知道我举了这么多例子，你到底明没明白我想表达什么。这种统一和冲突，让我感觉很微妙。
 
@@ -71,13 +71,13 @@ tags: things
 
 *引自毛概课本2018版285页*
 
-![信息技术和生物技术](https://wx4.sinaimg.cn/large/b2698767ly1g50ngw99tfj21400u0e84.jpg)
+![信息技术和生物技术](https://cdn.jsdelivr.net/gh/roadwide/roadwide.github.io@master/img/My-Major/b2698767ly1g50ngw99tfj21400u0e84.jpg)
 
 迅猛发展的两个学科之间又能擦出怎样的火花呢？挺令人期待的。
 
 题外话，都是迅猛发展，但就业情况却截然不同。或许等这场科技革命完了就好了。只是可能自己没法见证这场科技革命的成果了。
 
-![就业前景](https://wx3.sinaimg.cn/large/b2698767ly1g50vl8xwmdj20go0kxtb5.jpg)
+![就业前景](https://cdn.jsdelivr.net/gh/roadwide/roadwide.github.io@master/img/My-Major/b2698767ly1g50vl8xwmdj20go0kxtb5.jpg)
 
 # 一切都是基因惹的祸
 
@@ -181,9 +181,9 @@ tags: things
 
   另外，这部动漫制作真的精良，看着跟电影一样。头发丝的动态都细致到让人抓狂。里面的小姐姐也一个比一个漂亮。剧情的话，现在还没法说怎么样，毕竟才播了两集。
 
-  ![基因和生存率](https://wx2.sinaimg.cn/large/b2698767ly1g50qut9dyzj21hc0u0x6p.jpg)
+  ![基因和生存率](https://cdn.jsdelivr.net/gh/roadwide/roadwide.github.io@master/img/My-Major/b2698767ly1g50qut9dyzj21hc0u0x6p.jpg)
 
-  ![末日的规则](https://wx2.sinaimg.cn/large/b2698767ly1g50qux5bwpj21hc0u07wh.jpg)
+  ![末日的规则](https://cdn.jsdelivr.net/gh/roadwide/roadwide.github.io@master/img/My-Major/b2698767ly1g50qux5bwpj21hc0u07wh.jpg)
 
 ------
 
